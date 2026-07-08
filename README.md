@@ -71,6 +71,5 @@ The code for this analysis was run in R (R version 4.4.1 (2024-06-14)) and the f
 - car (3.1-2)
 - marginaleffects (0.30.0)
 - betareg (3.2-4)
-
-pscl (1.5.9)
+- pscl (1.5.9)
 
